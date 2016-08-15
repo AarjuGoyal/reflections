@@ -1,0 +1,2 @@
+1.What happens when you initialize a repository? Why do you need to do it?
+A.A .git folder is created and the folder is created into a repository. We need to do it so that all the versions of the files start being stored in it.
