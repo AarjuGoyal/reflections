@@ -1,0 +1,2 @@
+1.When would you want to use a remote repository rather than keeping all your work local?
+A.When my work is shared with other people or I'm working on a project that has other contributors. I would push all my files on github so that I can access all the versions form anywhere.
